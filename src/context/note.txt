@@ -1,0 +1,7 @@
+//context Api and useContext hook are totaly different in useContext is only  part of Context API to mke process essay in consumer part ( for getting the data )
+//create a context Api
+
+//Provider // jo proved kre data ko
+
+//consumer //=>useContext hook for simmplyfied the process of consumer data getting process from the context api 
+ // createContext default provided by the react
