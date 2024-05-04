@@ -12,7 +12,7 @@ const HeroSection = ({myData}) => {
                     <div className='hero-section-data'>
                         <p className='intro-data'>Welcome to </p>
                         <h1>{name}</h1>
-                        <p>lokasdj lsjdkjf asjdkjfja klaskdkfj ksjdkfjas  lkkasdfj asdfads adjf asdfans fjuasdfh s dfafjnjsd  jasdfja mandsnjfa  jjdnadsf  asdfh adjfhawdm ajsdna   </p>
+                        <p>Welcome to ShopSizzle: Your Ultimate Tech Haven! Explore cutting-edge electronics, from smartphones to smart home gadgets. Find top brands and unbeatable deals to elevate your digital lifestyle. Start shopping now!</p>
                         <NavLink>
                             <Button>show now</Button>
                         </NavLink>
